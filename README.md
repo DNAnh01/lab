@@ -1,2 +1,3 @@
-# LabNhung
-Các bài lab môn lập trình nhúng
+# Lab 2: Truyền nhận Serial
+
+<img src="./Lab2_ truyen_nhan_Serial.png" width="" height="">
